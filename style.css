@@ -5,4 +5,20 @@ header {
     font-size: 20vh;
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
+<<<<<<< Updated upstream
 }
+=======
+}
+
+.galvao-bueno {
+    background-color: crimson;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    width: 50%;
+
+}
+
+.galvao-titulo {
+    background-color: maroon;
+}
+>>>>>>> Stashed changes
