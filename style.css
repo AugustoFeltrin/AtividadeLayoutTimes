@@ -1,7 +1,7 @@
-foooter{
-    background-color: gray;
+footer{
+    background-color: rgb(255, 0, 0);
     width: 200%;
 }
-footer h4{
+footer h3{
     color: white;
 }

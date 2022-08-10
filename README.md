@@ -1,2 +1,2 @@
 # AtividadeLayoutTimes
-Atividade realizada por Augusto
+Atividade realizada por Augusto, Guilherme e Niko.
