@@ -2,11 +2,14 @@ header {
     background-color: red;
     color: white;
     width: 100%;
-    font-size: 20vh;
+    font-size: 2vh;
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
 }
 
+header a{
+    font-size: 10vh;
+}
 
 .galvao-bueno {
     background-color: crimson;
