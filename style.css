@@ -1,0 +1,38 @@
+.Caixas1{
+    height:auto;
+    width: 30%;
+    display: inline-block;
+    background-color: crimson;
+}
+
+.Caixas1 h1{
+    display: block;
+    background-color:lightgreen;
+    text-align: center;
+    font-weight: bold;
+    color: black;
+}
+
+.Caixas1 h3{
+    margin-left: 5%;
+    font-weight: bold;
+}
+
+.Caixas1 div:nth-child(3n) h3{
+    background-color: lightgreen;
+    text-align: center;
+    margin-right: 7%;
+}
+
+.Caixas1 p{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.Caixas1 button{
+    margin-left: 75%;
+    color: black;
+    background-color: lightgreen;
+    font-size: medium;
+    border: none;
+}
