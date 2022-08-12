@@ -101,12 +101,13 @@ aside div img {
 
 aside div h3 {
     text-align: center;
+    margin-top: 10%;
     margin-left: 3vh;
-    margin-bottom: 5vh;
+    margin-bottom: 1vh;
     background-color: #903333;
     color: white;
     width: 91%;
-    font-size: 2vh;
+    font-size: 3.5vh;
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
 }
